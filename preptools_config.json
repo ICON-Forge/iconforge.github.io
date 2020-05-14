@@ -1,0 +1,5 @@
+{
+  "url": "https://zicon.net.solidwallet.io/api/v3",
+  "nid": 80,
+  "keystore": "./cert/prep.keystore"
+}
